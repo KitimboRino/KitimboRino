@@ -4,5 +4,5 @@ I'm a software developer and Chemical Engineer persionate about learning and cre
 Some technologies I enjoy working with include CSS, HMTL, JavaScript, ReactJS, React Native.
 
 ## Find me around the web 🌎:
--Interacting and learning in public on <a href='https://twitter.com/RiNO_KED/'> Twitter 🐦</a><br/>
--Sharing updates on <a href='https://www.linkedin.com/in/rino-kitimbo-881090116'>LinkedIn</a><br/>
+  - Interacting and learning in public on <a href='https://twitter.com/RiNO_KED/'> Twitter 🐦</a><br/>
+  - Sharing updates on <a href='https://www.linkedin.com/in/rino-kitimbo-881090116'>LinkedIn</a><br/>
