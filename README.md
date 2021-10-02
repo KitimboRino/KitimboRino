@@ -1,7 +1,7 @@
 # Hi, I'm Rino 👋
 
-I'm a software developer 💻 and Chemical Engineer 👨‍🔬 passionate about learning and creating technologies to solve problems, elevate people, and build communities. 
-Some technologies I enjoy working with include CSS, HMTL, JavaScript, Php Laravel, VueJS, ReactJS, React Native.
+I'm a junior software developer 💻 and Chemical Engineer 👨‍🔬 passionate about learning and creating technologies to solve problems, elevate people, and build communities. 
+Some technologies I enjoy working with include CSS, HMTL, JavaScript, Laravel Php, VueJS, ReactJS, React Native.
 
 ## Find me around the web 🌎:
   - Interacting and learning in public on <a href='https://twitter.com/RiNO_KED/'> Twitter 🐦</a><br/>
